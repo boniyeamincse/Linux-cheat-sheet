@@ -1,6 +1,6 @@
 # Linux-cheat-sheet
 
-> Click :star:if you like the project. Pull Request are highly appreciated. Follow me [@SudheerJonna](https://twitter.com/SudheerJonna) for technical updates.
+> Click star: if you like the project. Pull Requests are highly appreciated. Follow me Boni Yeamin for technical updates.
 
 ### Table of Contents
 
@@ -21,12 +21,12 @@
 
 ### User Information
 
-1. **who** It is used to get information about currently logged in user on to system. If you don't provide any option or arguments, the command displays the following information for each logged-in user.
+1. **who** It is used to get information about currently logged-in users on to system. If you don't provide any options or arguments, the command displays the following information for each logged-in user.
 
     1. Login name of the user
     2. User terminal
     3. Date & Time of login
-    4. Remote host name of the user
+    4. Remote hostname of the user
 
    ```bash
    $ who
